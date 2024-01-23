@@ -1,0 +1,12 @@
+{
+    "general": {
+        "random_state": 42,
+        "status": "test",
+        "datetime_format": "%d.%m.%Y_%H.%M",   
+        "models_dir": "models",
+        "results_dir": "results"
+    },    
+    "inference": {
+        "model_name": "prod_model.pickle" 
+    }
+}
